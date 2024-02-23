@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm CrazySplushi</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
-[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1010526068404408412)
 
 - My Favorite: **Lua** and **JavaScript** 🤖
 - Interested in **Backend** and **Database** 🍪
